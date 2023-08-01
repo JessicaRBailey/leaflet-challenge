@@ -8,3 +8,23 @@ body,
 html {
   height: 100%;
 }
+
+
+/* map legend styling */
+
+.legend {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.legend h4 {
+  margin: 0 0 5px 0;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+}
